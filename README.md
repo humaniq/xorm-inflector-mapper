@@ -1,5 +1,6 @@
 xorm inflector mapper
 =====================
+[![Vexor status](https://ci.vexor.io/projects/b4ca5d2b-6477-4056-9ef6-9056b68e3b65/status.svg)](https://ci.vexor.io/ui/projects/b4ca5d2b-6477-4056-9ef6-9056b68e3b65/builds)
 Package implements xorm IMapper that pluralizes table names
 
 Installation
